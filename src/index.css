@@ -1,0 +1,13 @@
+html,body{
+    height: fit-content;
+    width:fit-content;
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+*{
+    scrollbar-width: none;
+    font-family: 'Poppins', sans-serif;
+    cursor: none;
+}
