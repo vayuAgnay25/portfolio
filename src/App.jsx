@@ -1,5 +1,5 @@
 import "./App.css";
-import me from "./assets/me.jpg";
+import me from "./assets/me.svg";
 import icon from "./assets/icon.png";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
